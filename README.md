@@ -7,4 +7,4 @@
 </div>
 <br/>
 
-![invoice photo] (https://github.com/Hanhtunaung97/JS-invoice-app-bootstraps/blob/5f1d0b9e3560508178c78142117eb56a74d98680/public/invoice_cover.PNG)
+![invoice photo](https://github.com/Hanhtunaung97/JS-invoice-app-bootstraps/blob/36e568e13a0a4810d3d662dc8bac26fc96de0934/public/invoice_cover.PNG)
